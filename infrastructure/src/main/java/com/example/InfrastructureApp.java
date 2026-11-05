@@ -1,10 +1,8 @@
 package com.example;
 
-import software.amazon.awscdk.App;
-import software.amazon.awscdk.Environment;
-import software.amazon.awscdk.StackProps;
 import com.example.infra.UrlShortenerStack;
-import java.util.Arrays;
+import software.amazon.awscdk.App;
+import software.amazon.awscdk.StackProps;
 
 public class InfrastructureApp {
     public static void main(final String[] args) {
