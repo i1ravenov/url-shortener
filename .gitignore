@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+**/target/
+
+# OS
+.DS_Store
+
+.classpath.txt
+target
+.classpath
+.project
+.idea
+.settings
+.vscode
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
